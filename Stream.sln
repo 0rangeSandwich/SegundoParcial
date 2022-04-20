@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream", "Stream\Stream.csproj", "{0A7B18F4-1544-40BA-9EBC-3E5C37BC9FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuadrado", "Cuadrado\Cuadrado.csproj", "{12C5CAAA-BBE7-40DA-859B-4DDED70A6200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7B18F4-1544-40BA-9EBC-3E5C37BC9FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7B18F4-1544-40BA-9EBC-3E5C37BC9FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7B18F4-1544-40BA-9EBC-3E5C37BC9FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7B18F4-1544-40BA-9EBC-3E5C37BC9FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C5CAAA-BBE7-40DA-859B-4DDED70A6200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C5CAAA-BBE7-40DA-859B-4DDED70A6200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C5CAAA-BBE7-40DA-859B-4DDED70A6200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C5CAAA-BBE7-40DA-859B-4DDED70A6200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DFE1463-4CB4-47B1-B250-A8D399B03BC2}
+	EndGlobalSection
+EndGlobal
